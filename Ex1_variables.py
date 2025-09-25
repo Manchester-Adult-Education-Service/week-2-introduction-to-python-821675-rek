@@ -5,16 +5,21 @@
 # Your task: Use variables to make the code shorter and easier to change!
 
 # Step 1: Run this program as it is first:
-print("Hello, Alice!")
-print("Alice is 25 years old.")
-print("In 5 years, Alice will be 30 years old.")
-print("Alice really likes pizza.")
-print("Pizza is Alice's favourite food!")
+name = "Rekha"
+age = 25
+food = "noodles"
+print(f"Hello, {name}!")
+print(f"{name} is 25 years old.")
+print(f"In 5 years, {name} will be {age + 5}.")
+print(f"{name} really likes {food}.")
+print(f"{food} is {name}'s favourite food!")
 
 # This will just add an empty line for space
 # Please don't touch this
 print("")
-
+bobName = 
+bobAge =
+bobFood =
 print("Hello, Bob!")
 print("Bob is 30 years old.")
 print("In 5 years, Bob will be 35 years old.")
