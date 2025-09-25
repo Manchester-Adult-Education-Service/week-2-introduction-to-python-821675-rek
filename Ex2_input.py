@@ -52,7 +52,7 @@ print(f"Half your age is {age/2}.")
 # A small example using the length of the name (string -> numeric)
 print(f"Your name has {len(name)} characters.")
 
-# --------------------
+# -------------------- 
 # Once you are done, please run the following commands (one by one) in the terminal:
 # git add Ex2_input.py
 # git commit -m "Completed input and arithmetic exercise"
